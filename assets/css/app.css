@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
+h1, h2, h3, h5, h6, p, span, div.ttext, a {
+    font-family: "Almarai", sans-serif !important;
+}
+
+._dir_flex_reverse {
+    display: flex !important;
+    flex-direction: row-reverse !important;
+    direction: rtl !important;
+}
+
+._dir_reverse {
+    direction: rtl;
+}
+
+._flex_reverse {
+    display: flex !important;
+    flex-direction: row-reverse !important;
+}
